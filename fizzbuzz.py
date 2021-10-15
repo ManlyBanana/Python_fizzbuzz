@@ -1,3 +1,4 @@
+import os
 import csv
 
 maxFor = 1000000
